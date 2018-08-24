@@ -6,6 +6,6 @@
   <!-- nodes -->
 
 <INVOKE TIMEOUT="" SERVICE="testwsrest:testFlowservice" VALIDATE-IN="$none" VALIDATE-OUT="$none">
-  <COMMENT>rest service</COMMENT>
+  <COMMENT></COMMENT>
 </INVOKE>
 </FLOW>
